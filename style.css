@@ -40,14 +40,14 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
   /*border: 1px solid red; pra quem está começando é bom pra adequar com a borda*/
   /*margin: auto;
   margin-top: 56px;
   margin-right: auto;
   margin-bottom:auto;
   margin-left: auto; podemos usar assim */
-
+  max-width: 588px;
   margin: 56px auto 0px;
   padding:0 24px;
 }
